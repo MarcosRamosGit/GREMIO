@@ -1,0 +1,43 @@
+body{
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 1400px;
+    background-attachment: fixed;
+    
+
+font-style: none;
+font-weight: 500;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+font-variant: small-caps;
+
+text-align: left;
+text-indent: 20px;
+text-transform: initial;
+
+text-shadow: 2px 2px 0 rgb(192, 192, 192);
+
+font-variant: initial;
+
+line-height: 28px;
+
+letter-spacing: 0.5px;
+
+ text-decoration: solid;
+
+ color: black;
+
+}
+
+p9{
+    font-size: 12px;
+    font-family: serif;
+ }
+ h1{
+    text-transform:uppercase;
+    text-decoration:initial;
+    font-variant: inherit;
+    color: black;
+ }
+
